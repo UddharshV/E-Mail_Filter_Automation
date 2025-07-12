@@ -83,4 +83,4 @@ pip install -r requirements.txt
 
 ---
 
-*This project will teach you: Data preprocessing, feature engineering, model selection, evaluation metrics, and practical ML deployment.* 
+*This project will teach you: Data preprocessing, feature engineering, model selection, evaluation metrics, and practical ML deployment.*
