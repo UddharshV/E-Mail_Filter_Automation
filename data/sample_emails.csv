@@ -1,0 +1,21 @@
+id,subject,sender,content,date,filter_label
+1,Meeting tomorrow at 2pm,colleague@company.com,"Hi, let's meet tomorrow at 2pm to discuss the project. Please bring your notes.",2024-01-15 10:30:00,work
+2,Weekly Newsletter - Tech Updates,newsletter@tech.com,"This week's top tech news: AI developments, new programming languages, and industry trends.",2024-01-15 09:00:00,newsletter
+3,Your invoice #12345 is ready,billing@service.com,"Your invoice for $150.00 is ready for payment. Due date: January 30, 2024.",2024-01-15 08:15:00,billing
+4,You won a prize!,spam@fake.com,"Congratulations! You've won $1,000,000! Click here to claim your prize!",2024-01-15 07:45:00,spam
+5,Project status update,manager@company.com,"The Q1 project is on track. We need to review the budget next week.",2024-01-14 16:30:00,work
+6,Your order has shipped,orders@shop.com,"Your order #45678 has been shipped and will arrive in 3-5 business days.",2024-01-14 14:20:00,shopping
+7,Security alert - new login,security@bank.com,"We detected a new login to your account. If this wasn't you, please contact us immediately.",2024-01-14 12:10:00,security
+8,Monthly digest - AI research,research@ai.org,"Latest AI research papers and breakthroughs in machine learning and neural networks.",2024-01-14 11:00:00,newsletter
+9,Team lunch this Friday,hr@company.com,"Join us for team lunch this Friday at 12:30 PM. We'll be ordering from the new Italian place.",2024-01-14 10:00:00,work
+10,Your subscription is expiring,subscription@service.com,"Your premium subscription expires in 7 days. Renew now to avoid interruption.",2024-01-14 09:30:00,billing
+11,Free shipping on orders over $50,promotions@shop.com,"Get free shipping on all orders over $50! Limited time offer.",2024-01-14 08:45:00,shopping
+12,Password reset request,security@service.com,"You requested a password reset. Click the link below to create a new password.",2024-01-14 08:00:00,security
+13,New product launch,marketing@company.com,"We're excited to announce our new product launch next week. Stay tuned for updates!",2024-01-13 17:00:00,work
+14,Your account has been suspended,admin@service.com,"Your account has been suspended due to suspicious activity. Contact support immediately.",2024-01-13 16:30:00,security
+15,Weekly sales report,sales@company.com,"Here's your weekly sales report. We exceeded targets by 15% this week.",2024-01-13 15:00:00,work
+16,Your payment failed,billing@service.com,"Your payment of $99.99 has failed. Please update your payment method.",2024-01-13 14:30:00,billing
+17,Exclusive offer just for you,offers@shop.com,"As a valued customer, here's an exclusive 20% discount on your next purchase.",2024-01-13 13:00:00,shopping
+18,New security feature available,security@service.com,"We've added two-factor authentication to your account. Enable it now for extra security.",2024-01-13 12:00:00,security
+19,Conference registration reminder,events@company.com,"Don't forget to register for the annual tech conference. Early bird pricing ends soon.",2024-01-13 11:00:00,work
+20,Your refund has been processed,billing@service.com,"Your refund of $75.00 has been processed and will appear in your account within 3-5 business days.",2024-01-13 10:30:00,billing 
