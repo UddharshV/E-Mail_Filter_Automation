@@ -1,14 +1,14 @@
 # Email Filter Automation with Machine Learning
 
-## 🎯 Project Overview
+## Project Overview
 To build a machine learning model to automatically categorize emails based on existing filters and patterns in your inbox. 
 
-## 📊 Dataset
+## Dataset
 - **Size**: ~5000 emails across 3 inboxes
 - **Features**: Subject, sender, content, date, existing filter labels
 - **Goal**: Predict which filter/category an email should be assigned to
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 Email_Filter_Automation/
@@ -25,7 +25,7 @@ Email_Filter_Automation/
 └── README.md            # This file
 ```
 
-## 🎓 Learning Objectives
+## Learning Objectives
 
 ### Phase 1: Data Understanding & Preprocessing
 - [ ] Email data extraction and parsing
@@ -44,13 +44,6 @@ Email_Filter_Automation/
 - [ ] Performance metrics (accuracy, precision, recall, F1)
 - [ ] Model interpretation and feature importance
 - [ ] Deployment considerations
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.8+
-- Basic understanding of Python
-- Familiarity with pandas, numpy (we'll learn as we go)
 
 ### Installation
 ```bash
