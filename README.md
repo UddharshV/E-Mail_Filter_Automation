@@ -1,7 +1,7 @@
 # Email Filter Automation with Machine Learning
 
 ## 🎯 Project Overview
-Build a machine learning model to automatically categorize emails based on existing filters and patterns in your inbox. This project will teach you core ML concepts through hands-on experience with real-world data.
+To build a machine learning model to automatically categorize emails based on existing filters and patterns in your inbox. 
 
 ## 📊 Dataset
 - **Size**: ~5000 emails across 3 inboxes
@@ -80,7 +80,3 @@ pip install -r requirements.txt
 - Email priority scoring
 - Spam detection integration
 - Real-time classification API
-
----
-
-*This project will teach you: Data preprocessing, feature engineering, model selection, evaluation metrics, and practical ML deployment.*
