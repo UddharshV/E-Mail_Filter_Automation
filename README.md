@@ -55,12 +55,12 @@ source email_ml_env/bin/activate  # On Windows: email_ml_env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 📈 Success Metrics
+## Success Metrics
 - **Accuracy**: >85% on test set
 - **Precision/Recall**: Balanced performance across categories
 - **Learning**: Understanding of each ML concept implemented
 
-## 🔄 Development Workflow
+## Development Workflow
 1. **Data Collection**: Extract emails from your inboxes
 2. **Exploration**: Understand data patterns and distributions
 3. **Preprocessing**: Clean and prepare data for ML
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 5. **Iterate**: Improve based on results
 6. **Evaluate**: Measure and document performance
 
-## 💡 Advanced Features (Future)
+## Advanced Features (Future)
 - Filter recommendation system
 - Email priority scoring
 - Spam detection integration
